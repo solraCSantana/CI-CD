@@ -8,7 +8,7 @@
 
 ### Entrega Contínua (CD)
 
-- **Definição:** Prática que estende a integração contínua ao automatizar o processo de implantação de aplicativos em ambientes de teste e produção.
+- **Definição:**  Prática que estende a integração contínua ao automatizar o processo de implantação de aplicativos em ambientes de teste e produção.
 - **Objetivo:** Permitir que as equipes entreguem alterações de código em um ritmo constante e seguro.
 - **Práticas:** Automação do processo de implantação, verificação de saúde da versão candidata, e rollback em caso de falhas.
 
