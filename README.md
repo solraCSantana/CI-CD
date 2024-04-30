@@ -2,6 +2,8 @@
 
 ### Integração Contínua (CI)
 
+-**Definições:**
+
 - **Definição:** Processo de automação que integra o código desenvolvido pela equipe várias vezes ao dia em um repositório compartilhado.
 - **Objetivo:** Garantir que o código seja funcional e esteja em conformidade com os padrões de estilo e qualidade estabelecidos.
 - **Práticas:** Execução de testes automáticos, verificação de estilo de código, e integração frequente.
